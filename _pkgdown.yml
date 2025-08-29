@@ -1,5 +1,3 @@
 url: https://remlapmot.github.io/mytestpackage1/
 template:
   bootstrap: 5
-figures:
-  fig.width: 9

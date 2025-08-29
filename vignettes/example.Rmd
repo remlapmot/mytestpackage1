@@ -1,6 +1,8 @@
 ---
 title: "Example vignette including a plot with plotmath"
-output: rmarkdown::html_vignette
+output:
+  rmarkdown::html_vignette:
+    fig_width: 10
 vignette: >
   %\VignetteIndexEntry{Example vignette including a plot with plotmath}
   %\VignetteEngine{knitr::rmarkdown}
