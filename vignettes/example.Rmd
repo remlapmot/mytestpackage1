@@ -1,0 +1,16 @@
+---
+title: "Example vignette including a plot with plotmath"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Example vignette including a plot with plotmath}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
